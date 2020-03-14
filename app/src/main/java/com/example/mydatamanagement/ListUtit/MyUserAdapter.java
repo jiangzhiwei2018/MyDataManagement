@@ -34,6 +34,7 @@ public class MyUserAdapter extends ArrayAdapter {
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
         Date date = null;
+      //  date =new Date();
         Users user = (Users) getItem(position);
         View view = LayoutInflater.from(getContext()).inflate(R.layout.linkmain_item, null);
         date=StrToDate(user.getDataTime());
