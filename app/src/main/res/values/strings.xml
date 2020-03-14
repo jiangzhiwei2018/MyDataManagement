@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyDataManagement</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading">加载中...</string>
+    <string name="qq">qq</string>
+    <string name="qq_space">qq空间</string>
+    <string name="cancel">取消</string>
+    <string name="weixin">微信</string>
+    <string name="moments">朋友圈</string>
+</resources>
